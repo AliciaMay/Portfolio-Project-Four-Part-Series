@@ -2,6 +2,7 @@
 #### Inspired by [Alex the Analyst](https://www.youtube.com/c/alextheanalyst)
 -------------------------------------
 <p>&nbsp;</p>
+
 # Introduction
 This is an excellent project for anyone new to data analytics. It can be difficult to know what to do and how to do it in order to gain a job as a data analyst. If you are new to data analytics, you may be unsure how to approach an interview or project, but don't worry! Alex the Analyst has your back!
 
