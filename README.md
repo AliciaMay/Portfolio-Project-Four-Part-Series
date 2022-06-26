@@ -1,8 +1,8 @@
 # Portfolio Project Four Part Series 
-### *Inspired by Alex the Analyst
+### Inspired by Alex the Analyst
 
 # Introduction
-This is a great project for anyone new to the field of data analytics. It can be hard to know what you need to do and how to do it in order to land a role as a data analyst. If you are new to data analytics, you might not know the right way to approach an interview or project, but don't worry! Alex the Analyst has got you covered! 
+This is a great project for anyone new to the field of data analytics. It can be hard to know what you need to do and how to do it in order to land a role as a data analyst. If you are new to data analytics, you might not know the right way to approach an interview or project, but don't worry! [Alex the Analyst](https://www.youtube.com/c/alextheanalyst) has got you covered! 
 
 # What's in This Portfolio
 * **Part 1** - Data Exploration with SQL
@@ -30,12 +30,12 @@ Given the provided Covid-19 dataset to explore, here is a brief description of t
 
 # Part 2 - Data Visualization in Tableau
 
-Here is a brief overview of what was done to wrap up the data visualization journey.
+Here's a quick rundown of what was done to complete the data visualization project.
 
 * Downloaded and saved sql results as individual .xlsx sheets.
-* Created a new viz and uploaded each .xlsx as a sheet.
-* Formatted and designed each sheet.
-* Created a dashboard as a final product.
+* Created a new viz and uploaded each .xlsx as a data source for individual Tableau sheets.
+* Filtered data down, formatted, and designed each sheet.
+* Created a dashboard and made final design adjustments to develop a final product.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/105527562/175824796-e8a93d18-274a-4e7d-9df8-fcc7d67d4712.png" width="650"/>
