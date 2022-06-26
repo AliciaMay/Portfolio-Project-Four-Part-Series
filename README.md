@@ -37,6 +37,9 @@ Here is a brief overview of what was done to wrap up the data visualization jour
 * Formatted and designed each sheet.
 * Created a dashboard as a final product.
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/105527562/175824796-e8a93d18-274a-4e7d-9df8-fcc7d67d4712.png" width="250"/>
+</div>
 
 # Part 3 - Data Cleaning in BigQuery
 
