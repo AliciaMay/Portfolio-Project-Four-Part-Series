@@ -1,8 +1,8 @@
 # Portfolio Project Four Part Series 
-### Inspired by Alex the Analyst
+### Inspired by [Alex the Analyst](https://www.youtube.com/c/alextheanalyst)
 
 # Introduction
-This is a great project for anyone new to the field of data analytics. It can be hard to know what you need to do and how to do it in order to land a role as a data analyst. If you are new to data analytics, you might not know the right way to approach an interview or project, but don't worry! [Alex the Analyst](https://www.youtube.com/c/alextheanalyst) has got you covered! 
+This is a great project for anyone new to the field of data analytics. It can be hard to know what you need to do and how to do it in order to land a role as a data analyst. If you are new to data analytics, you might not know the right way to approach an interview or project, but don't worry! Alex the Analyst has got you covered! 
 
 # What's in This Portfolio
 * **Part 1** - Data Exploration with SQL
