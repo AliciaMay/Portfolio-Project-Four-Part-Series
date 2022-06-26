@@ -3,7 +3,7 @@
 -------------------------------------
 <p>&nbsp;</p>
 # Introduction
-This is a great project for anyone new to the field of data analytics. It can be hard to know what you need to do and how to do it in order to land a role as a data analyst. If you are new to data analytics, you might not know the right way to approach an interview or project, but don't worry! Alex the Analyst has got you covered! 
+This is an excellent project for anyone new to data analytics. It can be difficult to know what to do and how to do it in order to gain a job as a data analyst. If you are new to data analytics, you may be unsure how to approach an interview or project, but don't worry! Alex the Analyst has your back!
 
 # What's in This Portfolio
 * **Part 1** - Data Exploration with SQL
@@ -45,12 +45,11 @@ Here's a quick rundown of what was done to complete the data visualization proje
 </div>
 
 # Part 3 - Data Cleaning in BigQuery 
-<p>&nbsp;</p>
 #### [SQL Code](https://github.com/AliciaMay/Portfolio-project/commit/5f47d10eefbcc2b1a2011d81984edbba63a0c3a5)
 
-**Skills used:** Joins, CTEs, Window Functions, Column Modifications
+**Skills used:** Joins, CTEs, Window Functions, String Manipulation
 
-Upon converting the .xlsx to .csv and uploading the dataset into BigQuerry, the process was canceled due to too many errors. After investigating the errors further, I found three rows where the address had been duplicated above each other. These rows were deleted in the .csv sheet and then uploaded into BigQuery with no other errors. 
+Upon converting the .xlsx to .csv and uploading the dataset into BigQuery, the process was canceled due to too many errors. After investigating the errors further, I found three rows where the address had been duplicated above each other. These rows were deleted in the .csv sheet and then uploaded into BigQuery with no other errors. 
 
 Here is a brief explanation of the dataset's preparation, formatting, and updating steps.
 
