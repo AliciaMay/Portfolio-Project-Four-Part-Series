@@ -1,7 +1,8 @@
+
 # Portfolio Project Four Part Series 
 #### Inspired by [Alex the Analyst](https://www.youtube.com/c/alextheanalyst)
 -------------------------------------
-
+<p>&nbsp;</p>
 # Introduction
 This is a great project for anyone new to the field of data analytics. It can be hard to know what you need to do and how to do it in order to land a role as a data analyst. If you are new to data analytics, you might not know the right way to approach an interview or project, but don't worry! Alex the Analyst has got you covered! 
 
@@ -17,8 +18,7 @@ Datasets:
 2. [Nashville Housing Data](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
 3. Movie Industry
 
-# Part 1 - Data Exploration in BigQuery
-## [SQL Code](https://github.com/AliciaMay/Portfolio-project/commit/39c5defe2b6524f5a8b57bad174f392939004bba)
+# Part 1 - Data Exploration in BigQuery ## [SQL Code](https://github.com/AliciaMay/Portfolio-project/commit/39c5defe2b6524f5a8b57bad174f392939004bba)
 
 **Skills used:** Joins, CTEs, Temp Tables, Window Functions, Aggregate Functions, Creating Views, Converting Data Types
 
@@ -30,8 +30,7 @@ Given the provided Covid-19 dataset to explore, here is a brief description of t
 * percent_population_infected - MAX((total_cases/population))
 * highest_infection_count - MAX(total_cases)
 
-# Part 2 - Data Visualization in Tableau
-## [Dashboard](https://public.tableau.com/views/GlobalCovid_16548842774390/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+# Part 2 - Data Visualization in Tableau ## [Dashboard](https://public.tableau.com/views/GlobalCovid_16548842774390/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Here's a quick rundown of what was done to complete the data visualization project.
 
@@ -44,8 +43,7 @@ Here's a quick rundown of what was done to complete the data visualization proje
   <img src="https://user-images.githubusercontent.com/105527562/175824796-e8a93d18-274a-4e7d-9df8-fcc7d67d4712.png" width="650"/>
 </div>
 
-# Part 3 - Data Cleaning in BigQuery
-## [SQL Code](https://github.com/AliciaMay/Portfolio-project/commit/5f47d10eefbcc2b1a2011d81984edbba63a0c3a5)
+# Part 3 - Data Cleaning in BigQuery ## [SQL Code](https://github.com/AliciaMay/Portfolio-project/commit/5f47d10eefbcc2b1a2011d81984edbba63a0c3a5)
 
 **Skills used:** Joins, CTEs, Window Functions, Column Modifications
 
