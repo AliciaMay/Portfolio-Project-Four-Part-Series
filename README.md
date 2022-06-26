@@ -8,7 +8,7 @@ This is a great project for anyone new to the field of data analytics. It can be
 * **Part 1** - Data Exploration with SQL
 * **Part 2** - Data Visuzlization with Tableau
 * **Part 3** - Data Cleaning with SQL
-* **Part 4** - Correlation in Python (Comming Soon)
+* **Part 4** - Correlation in Python (Coming Soon)
 
 # Resources
 Datasets:
@@ -43,9 +43,17 @@ Here's a quick rundown of what was done to complete the data visualization proje
 
 # Part 3 - Data Cleaning in BigQuery
 
+Skills used: Joins, CTEs, Windows Functions, Converting Data Types, Column Modifications
 
+Upon converting the .xlsx to .csv and uploading the dataset into BigQuerry, the process was canceled due to too many errors. After investigating the errors further, I found three rows where the address had been duplicated above each other. These rows were deleted in the .csv sheet and then uploaded into BigQuery with no other errors. 
 
+Here is a brief explanation of the dataset's preparation, formatting, and updating steps.
 
+* Standardized date format - FORMAT_DATE('%F', PARSE_DATE('%B %e, %Y', sale_date))
+* Separate out property_address into individual columns - SPLIT(property_address, ",")[OFFSET(0)]
+* Found duplicate rows - WITH RowNumCTE AS (SELECT, ROW_NUMBER() OVER (PARTITION BY
+* Deleted duplicate rows - CREATE OR REPLACE TABLE
+* Deleted unused columns - ALTER TABLE `project-21793.Nashville_Housing_Data.housing_data` DROP COLUMN owner_address
 
 
 
