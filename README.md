@@ -6,13 +6,13 @@
 # Introduction
 This is an excellent project for anyone new to data analytics. My goal for this portfolio project was to highlight my diverse skills and experience, along with the projects I’ve worked on.
 
-# What's in This Portfolio
+## What's in This Portfolio
 * **Part 1** - Data Exploration with SQL
 * **Part 2** - Data Visuzlization with Tableau
 * **Part 3** - Data Cleaning with SQL
 * **Part 4** - Correlation in Python (Coming Soon)
 
-# Resources
+## Resources
 Datasets:
 1. Covid-19 ([Deaths](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUFBZ1EzQWRDYTZIVWNodm5hQ2lsV2pnXzJnZ3xBQ3Jtc0trX3BKaF90akFUcEotckZmTWpVS1NmdGhRZmZ4dlQ4Wjk3OXZoVGE0X1BfVlhMOTNGQjA2ZzlOd3F1YkFnU2UtOW43TG43MGVWSVBka1VDdjZXWnh4dU0xdEZmd1gwODNhRDhKeWxaaGRjcjBJa2x6SQ&q=https%3A%2F%2Fgithub.com%2FAlexTheAnalyst%2FPortfolioProjects%2Fblob%2Fmain%2FCovidDeaths.xlsx&v=qfyynHBFOsM) and [Vaccinations](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXZycVpYM09UeF9oaFZXbHVlR1pVaFhiekhlZ3xBQ3Jtc0tuSkpRLWQ3TW5vN1k1OFYxc05SaHFvTkRJUXZic0JoT0x2Y3BmR1E0TDk3ZjFVNlRGYm05OUIwZm1uREVDNzZhNjZQYnRpczdSTjZHbDdwamJWaVI3alY1Tmk2S2pITXA0QlNEWUZLUUVzaF81SlJnTQ&q=https%3A%2F%2Fgithub.com%2FAlexTheAnalyst%2FPortfolioProjects%2Fblob%2Fmain%2FCovidVaccinations.xlsx&v=qfyynHBFOsM))
 2. [Nashville Housing Data](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
